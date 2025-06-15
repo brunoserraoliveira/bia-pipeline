@@ -13,3 +13,6 @@ Este documento descreve como configurar um pipeline de CI/CD utilizando o AWS El
 ```
 docker compose exec server bash -c 'npx sequelize db:migrate'
 ```
+
+## Formação AWS - Henrylle Maia 
+## Aluno: Bruno Oliveira 
